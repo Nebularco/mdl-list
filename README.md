@@ -1,5 +1,5 @@
 # MDL-list
-This small piece of code, complements the shortcomings of the CDM in terms of lists
+This small piece of code, complements the shortcomings of the MDL in terms of lists
 
 #Development
 
