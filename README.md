@@ -11,9 +11,11 @@ None
 
 http://sanmaster.github.io/mdl-list/
 
+#### NOTA: the Example MDL features which can be found at: http://www.getmdl.io
+
 ## Documentation and examples
 
-#### NOta : not mandatory container 
+#### NOTA : not mandatory container 
 
 ### Simple list
 
